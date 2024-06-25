@@ -18,7 +18,7 @@ router
 
 //Credentials Login
 router.route("/login").post(loginUser);
-router.route("/signup").post(registerUser);
+router.route("/register").post(registerUser);
 
 //Logout user
 router.route("/logout").get(logoutUser);

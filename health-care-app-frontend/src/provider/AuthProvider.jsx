@@ -22,7 +22,7 @@ const AuthProvider = ({ children }) => {
 
   const registerUser = async (registerData) => {
     const { obj: res, error } = await mutateData(
-      "/auth/signup",
+      "/auth/register",
       registerData
     );
     if (error || !res.data) {
