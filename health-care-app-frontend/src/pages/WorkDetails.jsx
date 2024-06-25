@@ -77,7 +77,7 @@ const WorkDetailsPage = () => {
       toast.error(error);
       return;
     }
-    //conevrt 18:30 to "6:30 PM"
+    //convert 18:30 to "6:30 PM"
     const from = moment(workingTime.from, "HH:mm").format("h:mm A");
     const to = moment(workingTime.to, "HH:mm").format("h:mm A");
     const data = { ...values, workingTime: `${from} - ${to}` };
