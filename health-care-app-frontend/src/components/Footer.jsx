@@ -68,7 +68,7 @@ const Footer = () => {
               </Typography>
               <Typography
                 as="a"
-                href="https://github.com/01Sriharsha/health-care-app-frontend"
+                href="https://github.com/aplombDev/majorProject"
                 target="_blank"
                 className="opacity-80 transition-opacity hover:opacity-100"
               >
