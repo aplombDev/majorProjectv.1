@@ -13,7 +13,7 @@ const specialityModel = new mongoose.Schema({
     required: true,
   },
   possibleSymptoms: [String], // list of symptom names that can be related to this disease/specialty
-  image : String
+  image: String,
 });
 
 export const Speciality = mongoose.model("Speciality", specialityModel);

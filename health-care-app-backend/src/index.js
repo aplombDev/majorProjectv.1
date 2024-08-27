@@ -40,7 +40,7 @@ app.use(
   })
 );
 
-//config OAuth Logins
+//config OAuth Login
 app.use(passport.initialize());
 app.use(passport.session());
 
