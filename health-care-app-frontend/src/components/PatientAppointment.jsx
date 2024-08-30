@@ -1,11 +1,10 @@
-import React from 'react'
-
 const PatientAppointment = ({PatientAppt}) => {
   return (
     <>
       <br></br>
       <div className='flex flex-col items-center'>
             {PatientAppt.map((info) => (
+                // eslint-disable-next-line react/jsx-key
                 <div>
                     <div className='flex justify-between items-center bg-gray-200 hover:bg-gray-300 transition-all cursor-pointer w-[40vw] px-2 py-2 rounded-lg'>
                         <div className='flex flex-row items-center gap-6'>

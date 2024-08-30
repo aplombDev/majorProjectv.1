@@ -1,4 +1,3 @@
-import React from 'react'
 import SearchItem from './SearchItem'
 import { useState } from 'react'
 import PatientAppointment from './PatientAppointment'

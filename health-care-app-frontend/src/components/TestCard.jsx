@@ -1,5 +1,3 @@
-import React from 'react'
-
 const TestCard = ({info}) => {
     return (
         <div className='flex flex-col justify-center items-start w-fit border-[1px] border-gray-500 rounded-lg p-3 gap-1 bg-gray-100 hover:shadow-lg hover:scale-[1.02] hover:bg-gray-200 transition-all duration-300 cursor-pointer'>

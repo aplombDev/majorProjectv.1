@@ -1,5 +1,3 @@
-import React from 'react'
-
 const CheckBox = ({ value, nameAtt, idAtt, handler, setter, checkedOption }) => {
     return (
         <div className='flex items-center gap-2'>

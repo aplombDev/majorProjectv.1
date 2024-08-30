@@ -1,4 +1,3 @@
-import React from 'react'
 import SubmitButton from './SubmitButton'
 
 const ProfileDetails = ({ username, email, imgSrc = "./profile.svg" }) => {

@@ -1,5 +1,3 @@
-import React from 'react'
-
 const CanceledAppointment = ({ CanceledAppt }) => {
   return (
     <div className='flex flex-col items-center'>

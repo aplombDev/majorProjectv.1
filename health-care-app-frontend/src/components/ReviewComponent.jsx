@@ -1,5 +1,3 @@
-import React from "react";
-
 const ReviewComponent = ({ info }) => {
   return (
     <div className="px-[5vw] py-4 flex flex-col gap-4">

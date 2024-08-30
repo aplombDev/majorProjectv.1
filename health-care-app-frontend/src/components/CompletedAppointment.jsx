@@ -1,5 +1,3 @@
-import React from 'react'
-
 const CompletedAppointment = ({CompletedAppt}) => {
   return (
     <div className='flex flex-col items-center'>

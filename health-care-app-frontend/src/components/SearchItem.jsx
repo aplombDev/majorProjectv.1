@@ -6,7 +6,7 @@ const SearchItem = ({ search, setSearch, placeHolder }) => {
 
     return (
         <form className='searchForm flex gap-4 justify-center items-center' onSubmit={(e) => e.preventDefault()}>
-            <span class="material-symbols-outlined">search</span>
+            <span className="material-symbols-outlined">search</span>
             <input
                 id='search'
                 type='text'

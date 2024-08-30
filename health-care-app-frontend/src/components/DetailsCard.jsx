@@ -1,5 +1,3 @@
-import React from 'react'
-
 const DetailsCard = ({ iconName, achievements, value }) => {
     return (
         < div className='flex flex-col gap-2 w-fit items-center' >
