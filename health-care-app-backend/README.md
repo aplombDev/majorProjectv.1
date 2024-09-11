@@ -17,7 +17,6 @@ HealthCare is a platform that bridges patients with healthcare providers, offeri
 The frontend of HealthCare is built using React.js and styled with Tailwind CSS.
 
 - **Repository**: [Frontend Repository](https://github.com/01Sriharsha/health-care-app-frontend)
-- **Live Demo**: [Frontend Demo](https://health-care-app-synapse.vercel.app)
 
 ## Backend
 
