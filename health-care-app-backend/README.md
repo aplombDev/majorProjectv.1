@@ -16,13 +16,13 @@ HealthCare is a platform that bridges patients with healthcare providers, offeri
 
 The frontend of HealthCare is built using React.js and styled with Tailwind CSS.
 
-- **Repository**: [Frontend Repository](https://github.com/01Sriharsha/health-care-app-frontend)
+- **Repository**: [Frontend Repository](https://github.com/aplombDev/majorProjectv.1/tree/main/health-care-app-frontend)
 
 ## Backend
 
 The backend of HealthCare Connect is powered by Express.js and MongoDB Atlas for database management.
 
-- **Repository**: [Backend Repository](https://github.com/01Sriharsha/health-care-app-backend)
+- **Repository**: [Backend Repository](https://github.com/aplombDev/majorProjectv.1/tree/main/health-care-app-backend)
 
 ## Features
 
